@@ -5,7 +5,10 @@ body {
 }
 
  /* InstantCheck Start */
- 
+ .InstantCheck {
+    max-width: 450px;
+    margin: auto;
+}
  .InstantCheck .card-body span {
     display: block;
     text-align: left;
