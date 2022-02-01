@@ -1,6 +1,6 @@
 
 
-
+// Instant Data With Checkbox Start 
 /* InstantCheck */
 
 // get elements
@@ -49,3 +49,4 @@ skills.forEach(skill => {
     
 });
 
+// Instant Data With Checkbox End 
